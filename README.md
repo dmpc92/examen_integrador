@@ -1,8 +1,11 @@
 # examen_integrador
 Examen
 
-Diego Parada
+
 
 grupo 09
 
-
+Diego Parada
+Delfina Ripoll
+Gaston Reyes
+Gabriel Sereno
